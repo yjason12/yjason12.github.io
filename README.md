@@ -1,3 +1,2 @@
-# PersonalSite
-https://yjason12.github.io/PersonalSite/
-wip
+# Personal Site
+https://yjason12.github.io
