@@ -1,0 +1,181 @@
+.top-container{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 75px;
+    padding-bottom: 275px;
+}
+
+
+body{
+    color: #40514E;
+    margin:0;
+    text-align: center;
+    font-family: verdana, sans-serif;
+}
+
+.navbar{
+    padding:15px 25px;
+    background-color: #66BFBF;
+}
+
+    
+.home-header{
+    font-family: "monarda";
+
+}
+
+
+h1{
+    font-weight:bold;
+    font-size: 4rem;
+    margin-top:0;
+    color: #66BFBF;
+    color: #000000;
+
+    line-height: 2;
+
+}
+
+h3{
+    font-weight:bold;
+
+    /* font-family: 'Mochiy Pop P One', sans-serif; */
+    color: #66BFBF;
+
+}
+
+
+
+#pfp{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border: 5px solid #555;
+}
+
+.aboutme-row{
+    width: 50%;
+    margin: 100px auto 150px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+
+p{
+    margin-top: 1rem !important;
+
+    word-spacing: 3px;
+}
+
+.houseicon{
+    padding-right: 10px;
+}
+
+.nav-item{
+    padding: 0 5px;
+    font-weight:bold;
+    color: #000000;
+
+}
+
+.about-table{
+    margin: auto;
+}
+
+.carousel-button{
+    position:absolute; top:140px;
+    padding:none;
+}
+
+.carousel-control-prev-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%2366BFBF' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E") !important;
+   }
+   
+.carousel-control-next-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%2366BFBF' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E") !important;
+}
+
+.carousel{
+    padding-top: 50px;
+    margin: auto;
+    height: 200px;
+    width: 1050px;
+}
+
+.carousel-header{
+    text-align: left;
+    padding-bottom: 10px;
+    padding-left: 445px;
+}
+
+.carousel-text{
+    max-width: 410px;
+    /* width: 50%; */
+    margin: 100px auto 150px auto;
+    text-align: left;
+    line-height: 2;
+    position:relative; left: 130px;
+}
+
+.aboutmeimg{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: 5px solid #000000;
+    float: left;
+    margin-right: 60px;
+    position:relative; left: 150px; bottom: 50px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+  }
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+
+
+
+
+
+  /* FOOTER */
+
+  .column {
+    float: left;
+    width: 16.66%;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .bottom-container{
+    background-color: hwb(180 40% 25%);
+    width: 1452px;
+    color: #40514E;
+    padding: 26px 500px;
+
+}
+
+.social-icon{
+    color:#40514E;
+}
+
+.social-icon:hover{
+    color: #000000;
+}
+
+

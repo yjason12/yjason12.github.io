@@ -1,0 +1,140 @@
+.footer-link{
+    color: #40514E;
+}
+
+body{
+    background-color: #E4F9F5;
+
+    color: #40514E;
+    margin:0;
+    text-align: center;
+    font-family: verdana, sans-serif;
+}
+
+
+.navbar{
+    padding:15px 25px;
+    background-color: #66BFBF;
+}
+
+.houseicon{
+    padding-right: 10px;
+}
+
+.nav-item{
+    padding: 0 5px;
+    font-weight:bold;
+    color: #000000;
+
+}
+
+.fa:hover {
+    opacity: 0.7;
+  }
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+
+  /* FOOTER */
+
+  .column {
+    float: left;
+    width: 16.66%;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .bottom-container{
+    background-color: hwb(180 40% 25%);
+    width: 1452px;
+    color: #40514E;
+    padding: 26px 500px;
+
+}
+
+.social-icon{
+    color:#40514E;
+}
+
+.social-icon:hover{
+    color: #000000;
+}
+
+.github-proj{
+    color: #000000;
+
+}
+
+.github-proj:hover{
+    color:#40514E;
+}
+
+
+/* SKILLS AND PROJECTS SECTION */
+
+.skills-projects-header{
+    font-weight: 900;
+    font-size: 1.5rem;
+    margin-top:0;
+    color: #3dc8bc;
+    font-family: monaco, monospace;
+    line-height: 2;
+    text-align: left;
+
+}
+
+.project-section{
+    
+    margin: auto;
+    width: 50%;
+    padding: 60px;
+}
+
+.skill-type{
+    color:#000000;
+
+    font-weight: bold;
+    
+}
+
+p{
+    
+    margin-top: 1rem !important;
+    text-align: left;
+    word-spacing: 2px;
+    color:#2d9898;
+}
+
+/* .descriptions{
+    position: relative;
+    right: 5px;
+} */
+
+.projects{
+    padding-top:30px;
+}
+
+.emoji{
+    font-size:200%;
+}
+
+.project-title{
+    padding-top: 25px;
+    font-style: italic;
+    padding-bottom: 15px;
+}
+
+.project-desc{
+    font-size: 115%;
+    font-family: 'Kalam', cursive;
+}
